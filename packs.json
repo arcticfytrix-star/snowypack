@@ -1,0 +1,12 @@
+{
+  "packs": {
+    "pack": {
+      "version": 1,
+      "url": "https://heartfelt-conkies-50d4ac.netlify.app/pack.zip"
+    },
+    "kuro": {
+      "version": 1,
+      "url": "https://heartfelt-conkies-50d4ac.netlify.app/kuro.zip"
+    }
+  }
+}
