@@ -2,11 +2,11 @@
   "packs": {
     "pack": {
       "version": 1,
-      "url": "https://heartfelt-conkies-50d4ac.netlify.app/pack.zip"
+      "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/pack.zip"
     },
     "kuro": {
       "version": 1,
-      "url": "https://heartfelt-conkies-50d4ac.netlify.app/kuro.zip"
+      "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/kuro.zip"
     }
   }
 }
