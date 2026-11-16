@@ -1,19 +1,19 @@
 {
   "packs": {
     "pack": {
-      "version": 1.0,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/pack.zip"
     },
     "kuro": {
-      "version": 1.1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/kuro.zip"
     },
     "keks": {
-      "version": 1.0,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/keks.zip"
     },
     "kuchen": {
-      "version": 1.0,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/kuchen.zip"
     }
   }
