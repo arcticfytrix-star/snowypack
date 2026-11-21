@@ -1,7 +1,7 @@
 {
   "packs": {
     "pack": {
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/arcticfytrix-star/snowypack/main/pack.zip"
     },
     "kuro": {
